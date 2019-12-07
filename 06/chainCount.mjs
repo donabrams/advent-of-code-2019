@@ -57,7 +57,6 @@ forEachLineIn('input.txt', (txt) => {
 				target = null;
 			}
 		}
-
 	}
 
 	console.log({ numOrbits });
